@@ -1,2 +1,2 @@
-pyglet
+pyglet<2.0.0
 numba
